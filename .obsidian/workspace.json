@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "0144f86f16e1112c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea40299c948d5759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51416581b7d0ea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PT면접준비/IT 주제/빅데이터(Bigdata).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05943eed76e5f69e",
+    "type": "split",
+    "children": [
+      {
+        "id": "19d331c98c88b8cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68edb8cc3966c34b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e43b245109bf3ddb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#메타",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d304db58160d141",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7c4824998762265",
+    "type": "split",
+    "children": [
+      {
+        "id": "891d579f271da105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf984992ecf47d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PT면접준비/IT 주제/빅데이터(Bigdata).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b53c75d00970cb22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PT면접준비/IT 주제/빅데이터(Bigdata).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "587d2c079bb621fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "215361892203c305",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PT면접준비/IT 주제/빅데이터(Bigdata).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "c51416581b7d0ea3",
+  "lastOpenFiles": [
+    "PT면접준비/IT 주제/증강현실(Augumented Reality, AR).md",
+    "PT면접준비/IT 주제/라이프로깅(Life Logging).md",
+    "PT면접준비/IT 주제/거울 세계(Mirror World).md",
+    "PT면접준비/IT 주제/가상현실(Virtual Reality, VR).md",
+    "대용량 고속 분산처리(분산 병렬 처리).md",
+    "자연어 처리.md",
+    "PT면접준비/예상 질문.md",
+    "데이터 과학(Data Science).md",
+    "PT면접준비/IT 주제/빅데이터(Bigdata).md",
+    "PT면접준비/IT 주제/메타버스(Metaverse).md"
+  ]
+}
