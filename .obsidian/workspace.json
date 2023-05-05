@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c7169f9b0c9e2b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue.js/Vue 배열 변경 감지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소프트웨어공학/명령형 프로그래밍 선언형 프로그래밍.md",
+                "file": "Vue.js/Vue 배열 변경 감지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소프트웨어공학/명령형 프로그래밍 선언형 프로그래밍.md",
+                "file": "Vue.js/Vue 배열 변경 감지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소프트웨어공학/명령형 프로그래밍 선언형 프로그래밍.md"
+                "file": "Vue.js/Vue 배열 변경 감지.md"
               }
             }
           }
@@ -161,8 +173,11 @@
   },
   "active": "68edb8cc3966c34b",
   "lastOpenFiles": [
-    "보안/XSS 공격.md",
+    "Vue.js/Vue 관련 주제.md",
+    "Vue.js/Vue 배열 변경 감지.md",
     "소프트웨어공학/명령형 프로그래밍 선언형 프로그래밍.md",
+    "Vue.js",
+    "보안/XSS 공격.md",
     "소프트웨어공학",
     "보안.md",
     "보안",
