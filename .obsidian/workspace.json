@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9179948de20ab0bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "npm/npm 의존성 문제.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue.js/Vue 배열 변경 감지.md",
+                "file": "npm/npm 의존성 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue.js/Vue 배열 변경 감지.md",
+                "file": "npm/npm 의존성 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue.js/Vue 배열 변경 감지.md"
+                "file": "npm/npm 의존성 문제.md"
               }
             }
           }
@@ -171,10 +183,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "68edb8cc3966c34b",
+  "active": "9179948de20ab0bb",
   "lastOpenFiles": [
-    "Vue.js/Vue 관련 주제.md",
     "Vue.js/Vue 배열 변경 감지.md",
+    "npm/npm 의존성 문제.md",
+    "npm",
+    "Vue.js/Vue 관련 주제.md",
     "소프트웨어공학/명령형 프로그래밍 선언형 프로그래밍.md",
     "Vue.js",
     "보안/XSS 공격.md",
