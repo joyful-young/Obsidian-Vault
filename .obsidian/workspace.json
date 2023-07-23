@@ -54,9 +54,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfe1109d4f0ab94c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
+            "id": "55d8689e71010460",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -99,6 +119,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "68283620ca70df2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -183,7 +211,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9179948de20ab0bb",
+  "active": "55d8689e71010460",
   "lastOpenFiles": [
     "Vue.js/Vue 배열 변경 감지.md",
     "npm/npm 의존성 문제.md",
