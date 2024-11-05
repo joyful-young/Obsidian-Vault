@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "dbccd3d13113f655",
+        "id": "bba3ac5e77eacfc9",
         "type": "tabs",
         "children": [
           {
-            "id": "104d3bd6aeb81f4b",
+            "id": "61cde8cecea1d76e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-git/main.js",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (main.js)"
             }
           }
         ]
@@ -148,7 +151,7 @@
             }
           },
           {
-            "id": "0809f7bdc62d0c77",
+            "id": "7778f8c5f15bcda7",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -162,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "104d3bd6aeb81f4b",
+  "active": "61cde8cecea1d76e",
   "lastOpenFiles": [
     "PT면접준비/IT 주제/거울 세계(Mirror World).md",
     "PT면접준비/IT 주제/가상현실(Virtual Reality, VR).md",
