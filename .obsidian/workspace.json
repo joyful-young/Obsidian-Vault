@@ -4,79 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ea40299c948d5759",
+        "id": "bcb41c66d7b75f06",
         "type": "tabs",
         "children": [
           {
-            "id": "c51416581b7d0ea3",
+            "id": "e7af928327f1030f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "보안/XSS 공격.md",
+                "file": "템플릿 모음/IT 주제 템플릿.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1950b765c1baf136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "소프트웨어공학/명령형 프로그래밍 선언형 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c7169f9b0c9e2b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vue.js/Vue 배열 변경 감지.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9179948de20ab0bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npm/npm 의존성 문제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfe1109d4f0ab94c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
-          },
-          {
-            "id": "55d8689e71010460",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "IT 주제 템플릿"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -111,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -119,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -127,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -150,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npm/npm 의존성 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +110,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
             }
           },
           {
@@ -167,10 +121,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npm/npm 의존성 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
             }
           },
           {
@@ -181,7 +136,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -189,9 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "npm/npm 의존성 문제.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
             }
           }
         ]
@@ -211,15 +168,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "55d8689e71010460",
+  "active": "e7af928327f1030f",
   "lastOpenFiles": [
+    "템플릿 모음/간단 개념 템플릿.md",
+    "보안/XSS 공격.md",
+    "소프트웨어공학/명령형 프로그래밍 선언형 프로그래밍.md",
     "Vue.js/Vue 배열 변경 감지.md",
     "npm/npm 의존성 문제.md",
     "npm",
     "Vue.js/Vue 관련 주제.md",
-    "소프트웨어공학/명령형 프로그래밍 선언형 프로그래밍.md",
     "Vue.js",
-    "보안/XSS 공격.md",
     "소프트웨어공학",
     "보안.md",
     "보안",
